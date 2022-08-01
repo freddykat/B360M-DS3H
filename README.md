@@ -12,7 +12,7 @@
 - Audio : ALC887
 
 ## Current EFI versions
-- OpenCore : 0.8.1
+- OpenCore : 0.8.2
 - Clover : r5138
 
 ## Everything worked well while I was using(Opencore)
@@ -21,6 +21,4 @@
 
 ## You have to put SMBIOS data(Opencore: Serial Number, MLB, ROM, SystemUUID / Clover: BoardSerialNumber, SerialNumber, SmUUID) on your own
 
-## macOS BigSur(Clover Tested) and Monterey(Opencore Tested) are working well on this EFI
-
-## macOS Ventura Developer Beta 1 Currently not working(in opencore booting step)(ventura tested in branch v0.8.2dev)
+## macOS BigSur(Clover Tested), Monterey(Opencore Tested), and Ventura Developer Beta 3 are working well on this EFI
