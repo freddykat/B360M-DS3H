@@ -21,4 +21,4 @@
 
 ## You have to put SMBIOS data(Opencore: Serial Number, MLB, ROM, SystemUUID / Clover: BoardSerialNumber, SerialNumber, SmUUID) on your own
 
-## macOS BigSur(Clover Tested), Monterey(Opencore Tested), and Ventura Developer Beta 3 are working well on this EFI
+## macOS BigSur(Clover Tested), Monterey(Opencore Tested), and Ventura Developer Beta 7(Public Beta 5) are working well on this EFI
