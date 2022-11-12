@@ -966,6 +966,12 @@
 		</dict>
 		<key>AppleInput</key>
 		<dict>
+			<key>PointerDwellRadius</key>
+			<integer>0</integer>
+			<key>PointerDwellDoubleClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellClickTimeout</key>
+			<integer>0</integer>
 			<key>PointerPollMin</key>
 			<integer>10</integer>
 			<key>PointerPollMax</key>
